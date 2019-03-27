@@ -79,6 +79,8 @@ gene_id       control_sample     knockout_sample     log_2[FC]
 Plot Analyzing
 >>>>>>>>>>>>>>>
 
+.. image:: D:\pp
+
 
 
 3. Non-functional Requirements
