@@ -6,7 +6,7 @@ This is a Java-based system for analyzing the differences between gene expressio
 
 
 
- purpose
+ 1.1.purpose
 
 ^^^^^^^^^^^^^^^^^^^^^
 
@@ -14,7 +14,7 @@ According to the genes of the two cell samples input, the related charts can be 
 
 
 
-Overview
+1.2.Overview
 
 ^^^^^^^^^^^^^^^^^^^^^
 
@@ -22,7 +22,7 @@ A simple UI interface is designed to read the gene text document input by the us
 
 
 
-User Characteristics
+1.3.User Characteristics
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -30,7 +30,7 @@ Biologists or biologists who need to analyze a large number of comparisons betwe
 
 
 
-Network Application of JAVA Language 
+1.4.Network Application of JAVA Language 
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -38,7 +38,7 @@ Java programs can acquire images, sounds, HTML documents and text of nodes on th
 
 
 
- Terminologies & Abbreviations Explaination
+ 1.5.Terminologies & Abbreviations Explaination
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
