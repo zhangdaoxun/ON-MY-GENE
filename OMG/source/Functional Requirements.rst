@@ -6,7 +6,7 @@ Functional Requirements
 
 Input
 
-------
+^^^^^^
 
   A text document submitting genes containing three columns of information (gene_id, ControlSample, KnockOutSample) 
 
@@ -52,7 +52,7 @@ AT1G01110	            2.709783491	                        1.425313279
 
 Output(Data Analyzing)
 
------------------------
+^^^^^^^^^^^^^^^^^^^^^^^
 
  a **table** and a **scatter plot** 
 
